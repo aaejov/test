@@ -1,5 +1,5 @@
 # Hello, world!
 
-i study in netology
+i am study in netology
 
-14 july
+05.07.2023
